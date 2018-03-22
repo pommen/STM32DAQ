@@ -1,4 +1,4 @@
-update=22.03.2018 12.54.26
+update=03/22/18 19:36:10
 version=1
 last_client=kicad
 [pcbnew]
@@ -206,3 +206,4 @@ LibName174=C:/Users/pr/Documents/kicad/Libs/digikey-kicad-library-master/digikey
 LibName175=C:/Users/pr/Documents/kicad/Libs/digikey-kicad-library-master/digikey-symbols/dk_TVS-Mixed-Technology
 LibName176=C:/Users/pr/Documents/kicad/Libs/digikey-kicad-library-master/digikey-symbols/dk_USB-DVI-HDMI-Connectors
 LibName177=C:/Users/pr/Documents/kicad/Libs/Libs/bluepill_breakouts
+LibName178=C:/Users/LillaHunden/Documents/kiCAD/Libs/Libs/Peters
